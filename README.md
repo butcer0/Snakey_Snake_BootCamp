@@ -79,8 +79,6 @@ A progressive Conda based software engineering development pathway
 - [OpenCV](https://opencv.org/)
 </details>
 
----
-
 <details><summary>Markdown Styling</summary>
    <style>
    .responsive-image > picture {
