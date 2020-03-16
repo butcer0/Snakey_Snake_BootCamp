@@ -81,7 +81,7 @@ A progressive Conda based software engineering development pathway
 
 ---
 
-<details><summary></summary>
+<details><summary>Markdown Styling</summary>
    <style>
    .responsive-image > picture {
      position: relative;
