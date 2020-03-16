@@ -57,39 +57,40 @@ A progressive Conda based software engineering development pathway
 #### Technologies
  
 #### `Problems Solved using Conda Python with Jupyter Notebook and several that will be named as challenges are unlocked...` 
-<div width="50%" height="auto"><img src="https://pandas.pydata.org/static/img/partners/anaconda.svg" alt="alt text" height="auto"></div>
+ <div width="50%" height="auto"><img src="https://pandas.pydata.org/static/img/partners/anaconda.svg" alt="alt text" height="150px"></div>
  
-<p><span>
- <br/>
- <img src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" alt="alt text" height="100px">
- <img src="https://twilio-cms-prod.s3.amazonaws.com/images/jupyter_python_numpy.width-808.png" alt="alt text" height="100px">
- <img src="https://png2.cleanpng.com/sh/e20045ae2511e4ba9b8bb87c86184ebf/L0KzQYm3VsE1N51rR91yc4Pzfri0igB6fJl0hp9zdYD8hLb5Tf5wfJZnh9H0LXnxhLb5hvFkbV5zjd95eT3sfrf2kCBpbaNqRadrMkK5RbLsgsU0OWE6RqYDOUWzR4mCUcUzQGo9SKs6MEe3QoO1kP5o/kisspng-ipython-jupyter-notebook-interface-numpy-infosphere-5b2265aeb53105.4895078915289809107422.png" alt="alt text" width="600px"> <br/>
+ <p><span>
+ <img src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" alt="pandas" height="150px">
+ <img src="https://twilio-cms-prod.s3.amazonaws.com/images/jupyter_python_numpy.width-808.png" alt="numpy" height="150px">
+ <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="scipy" height="150px"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="alt text" height="150px"> 
  </span>
-</p>
+ </p>
   
-#### Links
+### Links
 - [Jupyter Notebook](https://jupyter.org/)
 - [Conda](https://docs.conda.io/en/latest/)
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
+- [OpenCV](https://opencv.org/)
 
+---
 
-#### Markdown Styling (*Ignore*)
-```
-<style>
-.responsive-image > picture {
-  position: relative;
-  display: block;
-  width: 100%;
-  height: 0; /* 0, as height will be controlled through padding-top */
-}
-.responsive-image > picture > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-}
-</style>
-```
+<details><summary></summary>
+   <style>
+   .responsive-image > picture {
+     position: relative;
+     display: block;
+     width: 100%;
+     height: 0; /* 0, as height will be controlled through padding-top */
+   }
+   .responsive-image > picture > img {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 100%;
+     width: 100%;
+   }
+   </style>
+</details>
