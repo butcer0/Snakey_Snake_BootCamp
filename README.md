@@ -67,13 +67,17 @@ A progressive Conda based software engineering development pathway
  </span>
  </p>
   
-### Links
+<details>
+  <summary>Technology Links</summary>
+  
+  ### Links
 - [Jupyter Notebook](https://jupyter.org/)
 - [Conda](https://docs.conda.io/en/latest/)
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [OpenCV](https://opencv.org/)
+</details>
 
 ---
 
